@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coreui.bundle.min.js"
   },
   {
-    "revision": "d227e9dd62db1c7bbc79",
-    "url": "/css/app.39ba8c30.css"
+    "revision": "4e0538943990eb48f625",
+    "url": "/css/app.12648f88.css"
   },
   {
     "revision": "f7f67cf595dcd0bc65e7",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3ce285d861b0176ec7ded6437e2fb483",
     "url": "/img/bell-regular 1.3ce285d8.svg"
+  },
+  {
+    "revision": "365d60f78e036ff8894cf85244aa8689",
+    "url": "/img/bg.365d60f7.jpg"
   },
   {
     "revision": "4077cd0a5512f9c207e9c21137c86726",
@@ -128,12 +132,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/user-alt-solid.80f1854e.svg"
   },
   {
-    "revision": "068e51436234f5d9536d619a1b7eea19",
+    "revision": "78747de4e137f55b2fd9d5c606a19817",
     "url": "/index.html"
   },
   {
-    "revision": "d227e9dd62db1c7bbc79",
-    "url": "/js/app.4cee3166.js"
+    "revision": "4e0538943990eb48f625",
+    "url": "/js/app.4e15a47d.js"
   },
   {
     "revision": "f7f67cf595dcd0bc65e7",

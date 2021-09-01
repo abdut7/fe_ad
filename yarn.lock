@@ -8281,6 +8281,11 @@ vm-browserify@^1.0.1:
   resolved "https://registry.yarnpkg.com/vm-browserify/-/vm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
   integrity sha512-2ham8XPWTONajOR0ohOKOHXkm3+gaBmGut3SRuu75xLd/RRaY6vqgh8NBYYk7+RW3u5AtzPQZG8F10LHkl0lAQ==
 
+vs-modal@^1.3.16:
+  version "1.3.16"
+  resolved "https://registry.yarnpkg.com/vs-modal/-/vs-modal-1.3.16.tgz#831497fad4692450e3903834ddc72388052d4210"
+  integrity sha512-YlORmJUUs9s8krnq7szVNnYDku/vjz6eWWMzzZxv0rBotQt1J0rJE7yCQRxzhkqEqbbRn2rzMSJO1cxVnPtOXA==
+
 vue-eslint-parser@^7.0.0:
   version "7.10.0"
   resolved "https://registry.yarnpkg.com/vue-eslint-parser/-/vue-eslint-parser-7.10.0.tgz#ea4e4b10fd10aa35c8a79ac783488d8abcd29be8"
