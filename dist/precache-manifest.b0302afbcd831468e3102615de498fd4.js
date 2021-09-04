@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coreui.bundle.min.js"
   },
   {
-    "revision": "3450bc2e2f52a84e82b7",
-    "url": "/css/app.47105928.css"
+    "revision": "1e9c338f569804d76e18",
+    "url": "/css/app.e5e4585e.css"
   },
   {
     "revision": "194885e64dfda800b3a3",
@@ -136,12 +136,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/user-alt-solid.80f1854e.svg"
   },
   {
-    "revision": "7ad9875a7c40f13b4e15f38bbf16d462",
+    "revision": "2669a7ecce2f9571bcc12bf6f4e6380e",
     "url": "/index.html"
   },
   {
-    "revision": "3450bc2e2f52a84e82b7",
-    "url": "/js/app.8b195750.js"
+    "revision": "1e9c338f569804d76e18",
+    "url": "/js/app.9d660583.js"
   },
   {
     "revision": "194885e64dfda800b3a3",
