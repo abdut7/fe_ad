@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.5cb443d78ac8c1356cd46eca007a87ef.js"
+  "/precache-manifest.693d70b13136f5924c3c98e6c2acecac.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "trade-app-v2-2"});
